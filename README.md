@@ -4,7 +4,7 @@
 
 (EM CONSTRUÇÂO)
 
-<p align="left">Atualmente estou fazendo mestrado em Ciência da Computação na Unicamp. Meu interesse é adentrar na área de redes neurais e machine leaning.</p>
+<p align="left">Atualmente faço mestrado em Ciência da Computação na Unicamp. Meu interesse é adentrar na área de redes neurais e machine leaning.</p>
 
 ###
 
