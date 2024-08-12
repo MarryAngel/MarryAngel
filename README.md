@@ -51,6 +51,6 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Maria Angelica/MarryAngel/output/snake.svg" alt="Snake animation" />
+###<img src="https://raw.githubusercontent.com/MarryAngel/MarryAngel/output/snake.svg" alt="Snake animation" />
 
 ###
