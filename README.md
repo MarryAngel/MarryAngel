@@ -1,10 +1,15 @@
-<h2 align="center">Olá, bem-vindo ao meu cyberspace simulado!🌐✨</h2>
+<h2 align="center">Seja bem-vindo ao meu cyberspace simulado!🌐✨</h2>
 
 ###
 
 (EM CONSTRUÇÂO)
 
 <p align="left">Atualmente faço mestrado em Ciência da Computação na Unicamp. Meu interesse é adentrar na área de redes neurais e machine leaning.</p>
+
+<!--
+<p align="left"> Olá! Sou Maria Angélica, mais conhecida como Marry ou Allyndra, no mundo dos games 🎮. Neste GitHub, você encontrará uma combinação de minhas paixões por tecnologia, inovação e criatividade digital. Meu objetivo é explorar e construir soluções que desafiem os limites do possível, seja através de projetos de software, contribuições open-source ou experimentos com novas tecnologias. </p>    
+-->
+
 
 ###
 
