@@ -53,6 +53,6 @@
 <br clear="both">
 
 ### <img src="https://raw.githubusercontent.com/MarryAngel/MarryAngel/output/snake.svg" alt="Snake animation" />
-![snake gif](https://github.com/MarryAngel/MarryAngel/blob/output/github-contribution-grid-snake.svg)
+### ![snake gif](https://github.com/MarryAngel/MarryAngel/blob/output/github-contribution-grid-snake.svg)
 
 ###
