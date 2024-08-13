@@ -1,5 +1,7 @@
 <h2 align="center">Seja bem-vindo ao meu cyberspace simulado!🌐✨</h2>
-
+<!--
+<h2 align="center">Acesso liberado! Bem-vindo ao repositório simulado! 🌐✨</h2>
+-->
 ###
 
 (EM CONSTRUÇÂO)
@@ -7,8 +9,20 @@
 <p align="left">Atualmente faço mestrado em Ciência da Computação na Unicamp. Meu interesse é adentrar na área de redes neurais e machine leaning.</p>
 
 <!--
-<p align="left"> Olá! Sou Maria Angélica, mais conhecida como Marry ou Allyndra, no mundo dos games 🎮. Neste GitHub, você encontrará uma combinação de minhas paixões por tecnologia, inovação e criatividade digital. Meu objetivo é explorar e construir soluções que desafiem os limites do possível, seja através de projetos de software, contribuições open-source ou experimentos com novas tecnologias. </p>    
+<p align="left">
+
+**Iniciando Sequência de Apresentação...** ⚙️
+
+Olá, Jogador! Eu sou Maria Angélica, mas você pode me chamar de Marry ou Allyndra no universo dos games 🎮. Neste GitHub, você está prestes a explorar um pouco do meu código-fonte, repleto das minhas missões na área de TI. 
+Minha habilidade especial? Criatividade + Simplicidade. Meus projetos são desenhados para serem facilmente navegáveis, tanto por futuras versões de mim mesma quanto por qualquer aventureiro que decidir desbravar esse mundo. 
+Meu objetivo final? Criar soluções que sejam tão eficientes quanto uma IA bem treinada e desbloquear novas tecnologias misteriosas. 
+Atenção, alerta de caos: meu repositório está em fase de construção 🚧. Reorganizando e ajustando parâmetros, por favor, tenha paciência! 
+
+**Missão Iniciada: Boas-Vindas ao Ciberespaço!** 🌐
+
+ </p>    
 -->
+
 
 
 ###
