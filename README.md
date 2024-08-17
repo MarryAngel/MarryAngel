@@ -4,17 +4,15 @@
 
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BrczMzdTcyOXd0dTFuMmp6Z2s4MjZ5bjdsd3JseWQ2bHc2MnFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7cDC4htdvbSrfr7nBM/giphy.webp"  />
 
-###
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQzM3pqdzBmNzNobXdjOTd1bXQ5NmJydTA3MHN6aGJ6YXk5aTNwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QfxdDwJIjalZFCBhAX/giphy.webp" width="55"> Iniciando Sequência de Apresentação... ⚙
 
-<p align="left">Iniciando Sequência de Apresentação... ⚙️<br><br>Olá, Visitante! Eu sou Maria Angélica, mas você pode me chamar de Marry ou Allyndra no universo dos games 🎮. Neste GitHub, você está prestes a explorar um pouco do meu código-fonte, repleto das minhas missões na área de TI.<br><br>Minha habilidade especial? Criatividade + Simplicidade. Meus projetos são desenhados para serem facilmente navegáveis, tanto por futuras versões de mim mesma quanto por qualquer aventureiro que decidir desbravar esse mundo. Meu objetivo final? Criar soluções que sejam tão eficientes quanto uma IA bem treinada e desbloquear novas tecnologias misteriosas!!!</p>
+<p align="left">Olá, Visitante! Eu sou Maria Angélica, mas você pode me chamar de Marry ou Allyndra no universo dos games 🎮. Neste GitHub, você está prestes a explorar um pouco do meu código-fonte, repleto das minhas missões na área de TI.<br><br>Minha habilidade especial? Criatividade + Simplicidade. Meus projetos são desenhados para serem facilmente navegáveis, tanto por futuras versões de mim mesma quanto por qualquer aventureiro que decidir desbravar esse mundo. Meu objetivo final? Criar soluções que sejam tão eficientes quanto uma IA bem treinada e desbloquear novas tecnologias misteriosas!!!</p>
 
 ###
 
 <br clear="both">
 
 <h3 align="left">Habilidades Técnicas Desbloqueadas 🛠️</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
